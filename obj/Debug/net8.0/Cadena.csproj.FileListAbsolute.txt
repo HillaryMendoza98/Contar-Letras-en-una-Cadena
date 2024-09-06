@@ -1,0 +1,14 @@
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\bin\Debug\net8.0\Cadena.exe
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\bin\Debug\net8.0\Cadena.deps.json
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\bin\Debug\net8.0\Cadena.runtimeconfig.json
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\bin\Debug\net8.0\Cadena.dll
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\bin\Debug\net8.0\Cadena.pdb
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\Cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\Cadena.AssemblyInfoInputs.cache
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\Cadena.AssemblyInfo.cs
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\Cadena.csproj.CoreCompileInputs.cache
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\Cadena.dll
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\refint\Cadena.dll
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\Cadena.pdb
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\Cadena.genruntimeconfig.cache
+C:\Users\Hillary Mendoza\Documents\Contar Letras en una Cadena\Cadena\obj\Debug\net8.0\ref\Cadena.dll
